@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WallDown</string>
+    <string name="info">Info</string>
+    <string name="version">Version</string>
+    <string name="establecer">Establecer como fondo de pantalla</string>
+    <string name="compartir">Compartir</string>
+    <string name="descargar">Descargar</string>
+    <string name="appwidget_text"></string>
+    <string name="fav2">Favoritos</string>
+
+</resources>
