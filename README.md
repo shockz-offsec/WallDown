@@ -21,7 +21,7 @@ Creada usando API 28 (Android 9).
 Puedes descargar la APK desde el apartado "Releases".
 Puedes descargar la app desde github.
 
-## Autores ✒️
+## Autor ✒️
 
 * **Jorge Manuel Lozano Gómez**
 
