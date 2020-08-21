@@ -15,11 +15,16 @@ Versiones Android +4.0.3 (API:15).
 
 Creada usando API 28 (Android 9).
 
+## Ejecutar codigo
 
-### Instalación 🔧
+Descarga el proyecto y abrelo con Android Studio , luego utiliza un AVD con nivel de API superior a 15.
+
+Utilizando un AVD con API 28 (Android 9) podrás obtener el mejor rendimiento.
+
+
+### APK 🔧
 
 Puedes descargar la APK desde el apartado "Releases".
-Puedes descargar la app desde github.
 
 ## Autor ✒️
 
