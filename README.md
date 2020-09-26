@@ -35,8 +35,8 @@ Puedes descargar la APK desde el apartado "Releases".
 
 **Estableciendo un fondo de pantalla**
 
-![Estableciendo un fondo de pantalla](http://g.recordit.co/X79cJi2Hmb.gif)
+<p align="center"><img src="http://g.recordit.co/X79cJi2Hmb.gif"></p>
 
 **Fondo de pantalla desde el album del usuario**
 
-![Estableciendo un fondo de pantalla 2](http://g.recordit.co/YBj1vtEL39.gif)
+<p align="center"><img src="http://g.recordit.co/YBj1vtEL39.gif"></p>
