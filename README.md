@@ -26,11 +26,6 @@ Utilizando un AVD con API 28 (Android 9) podrás obtener el mejor rendimiento.
 
 Puedes descargar la APK desde el apartado "Releases".
 
-## Autor ✒️
-
-* **Jorge Manuel Lozano Gómez**
-
-
 ## Preview de la App:
 
 **Estableciendo un fondo de pantalla**
