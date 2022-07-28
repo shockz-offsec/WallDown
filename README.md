@@ -35,8 +35,3 @@ Puedes descargar la APK desde el apartado "Releases".
 **Fondo de pantalla desde el album del usuario**
 
 <p align="center"><img src="http://g.recordit.co/YBj1vtEL39.gif"></p>
-
-
-## Author ✒️
-
-* **Jorge Manuel Lozano Gómez**
