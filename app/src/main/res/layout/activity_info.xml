@@ -12,7 +12,7 @@
         android:layout_marginTop="60dp"
         android:paddingLeft="10dp"
         android:paddingRight="5dp"
-        android:text="WallDown es una aplicación que te permite visualizar fondos de pantalla basados en un catálogo o tuyos propios, y posteriormente establecerlos como fondo de pantalla en el dispositivo o descargarlo.\n\n\nPara descargar,establecer como fondo o compartir: Despues de seleccionar la imagen, mantener pulsado para mostrar opciones.\n\nDesarrollador: Jorge Manuel Lozano Gómez \n\nAplicación Desarrollada en Android Studio 3.5.2"
+        android:text="WallDown es una aplicación que te permite visualizar fondos de pantalla basados en un catálogo o tuyos propios, y posteriormente establecerlos como fondo de pantalla en el dispositivo o descargarlo.\n\n\nPara descargar,establecer como fondo o compartir: Despues de seleccionar la imagen, mantener pulsado para mostrar opciones.\n\nDesarrollador: Shockz \n\nAplicación Desarrollada en Android Studio 3.5.2"
         android:textColor="#000000"
         android:textSize="20sp"
         android:textStyle="bold"
